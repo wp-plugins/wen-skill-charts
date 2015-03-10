@@ -14,7 +14,8 @@ Show animated skill bar and circle
 
 <h3>WEN Skill Charts</h3>WEN Skill Charts will help you to display beautiful animated skill bar and circle. Several options are available to customize the chart. You can easily add/edit/delete/re-order skill items from the admin panel. You can use shortcode in pages, posts or sidebar using Text Widget.
 
-Plugin : [Homepage](http://wenthemes.com/item/wordpress-plugins/wen-skill-charts/)
+Plugin : [Homepage](http://wenthemes.com/item/wordpress-plugins/wen-skill-charts/)    
+
 If you like this plugin, please [rate and review](http://wordpress.org/support/view/plugin-reviews/wen-skill-charts). If you have any question, suggestion or issue, please [post here](http://wordpress.org/support/plugin/wen-skill-charts).
 
 
