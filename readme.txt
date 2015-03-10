@@ -52,9 +52,10 @@ Nice, make a post on the [Support Forum](http://wordpress.org/support/plugin/wen
 
 == Screenshots ==
 
-1. Skill management page
-2. Display skill bar in front-end
-3. Display skill circle in front-end
+1. Skill management
+2. Skill settings
+3. Display skill bar
+4. Display skill circle
 
 == Changelog ==
 
