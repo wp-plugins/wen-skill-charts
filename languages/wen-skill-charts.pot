@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wen-skill-charts\n"
+"POT-Creation-Date: 2015-03-08 14:35+0545\n"
+"PO-Revision-Date: 2015-03-08 14:36+0545\n"
+"Last-Translator: WEN Themes <info@wenthemes.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ../../wen-skill-charts\n"
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:85
+msgid "Are you sure?"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:86
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:205
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:286
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:566
+msgid "Title"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:87
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:206
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:207
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:567
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:568
+msgid "Enter Title"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:88
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:211
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:299
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:572
+msgid "Description"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:89
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:212
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:213
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:573
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:574
+msgid "Enter Description"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:90
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:217
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:281
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:312
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:578
+msgid "Percentage"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:91
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:218
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:579
+msgid "Enter Percentage"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:92
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:219
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:580
+#, php-format
+msgid "Enter Percentage without % sign"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:93
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:228
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:589
+msgid "Remove"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:94
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:224
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:585
+msgid "If not selected, Default Color will be used."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:145
+msgid "Skills"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:153
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:415
+msgid "Usage"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:160
+msgid "Skill Settings"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:179
+msgid "Note:"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:179
+msgid "Title and Percentage fields are required."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:223
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:277
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:584
+msgid "Color"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:237
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:115
+msgid "Add New Skill"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:263
+msgid "Chart"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:264
+msgid "Type"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:278
+msgid "Default"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:285
+msgid "Position"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:323
+msgid "Left and Right is applied for Bar Chart only"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:393
+msgid "Shortcode"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:394
+msgid "Copy and paste this shortcode directly into any WordPress post or page."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:397
+msgid "Template Include"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:398
+msgid ""
+"Copy and paste this code into a template file to include the slider within "
+"your theme."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:413
+msgctxt "column name"
+msgid "ID"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:414
+msgctxt "column name"
+msgid "Skills"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:516
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:519
+msgid "Skill updated."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:517
+msgid "Custom field updated."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:518
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:521
+#, php-format
+msgid "Skill restored to revision from %s"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:522
+msgid "Skill created."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:523
+msgid "Skill saved."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:524
+msgid "Skill submitted."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:526
+#, php-format
+msgid "Skill scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:528
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../../wen-skill-charts/admin/class-wen-skill-charts-admin.php:530
+msgid "Skill draft updated."
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:110
+msgctxt "post type general name"
+msgid "Skills"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:111
+msgctxt "post type singular name"
+msgid "Skill"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:112
+msgctxt "admin menu"
+msgid "Skills"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:113
+msgctxt "add new on admin bar"
+msgid "Skill"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:116
+msgid "New Skill"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:117
+msgid "Edit Skill"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:118
+msgid "View Skill"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:119
+msgid "All Skills"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:120
+msgid "Search Skills"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:121
+msgid "Parent Skills:"
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:122
+msgid "No skills found."
+msgstr ""
+
+#: ../../wen-skill-charts/public/class-wen-skill-charts-public.php:123
+msgid "No skills found in Trash."
+msgstr ""
+
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-common.php:53
+msgid "Bar"
+msgstr ""
+
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-common.php:54
+msgid "Circle"
+msgstr ""
+
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-common.php:69
+msgid "Bottom"
+msgstr ""
+
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-common.php:70
+msgid "Top"
+msgstr ""
+
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-common.php:74
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-common.php:96
+msgid "Disable"
+msgstr ""
+
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-common.php:90
+msgid "Left"
+msgstr ""
+
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-common.php:91
+msgid "Middle"
+msgstr ""
+
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-common.php:92
+msgid "Right"
+msgstr ""
+
+#: ../../wen-skill-charts/includes/class-wen-skill-charts-shortcode.php:72
+msgid "Skill not found"
+msgstr ""
