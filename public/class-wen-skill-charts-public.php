@@ -111,7 +111,7 @@ class WEN_Skill_Charts_Public {
       'singular_name'      => _x( 'Skill', 'post type singular name', 'wen-skill-charts' ),
       'menu_name'          => _x( 'Skills', 'admin menu', 'wen-skill-charts' ),
       'name_admin_bar'     => _x( 'Skill', 'add new on admin bar', 'wen-skill-charts' ),
-      'add_new'            => _x( 'Add New', WEN_SKILL_CHARTS_POST_TYPE_SKILL, 'wen-skill-charts' ),
+      'add_new'            => _x( 'Add New', 'wen_skill', 'wen-skill-charts' ),
       'add_new_item'       => __( 'Add New Skill', 'wen-skill-charts' ),
       'new_item'           => __( 'New Skill', 'wen-skill-charts' ),
       'edit_item'          => __( 'Edit Skill', 'wen-skill-charts' ),

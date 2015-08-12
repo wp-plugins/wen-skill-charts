@@ -14,9 +14,9 @@
  *
  * @wordpress-plugin
  * Plugin Name:       WEN Skill Charts
- * Plugin URI:        https://wordpress.org/plugins/wen-skill-charts/
+ * Plugin URI:        http://wenthemes.com/item/wordpress-plugins/wen-skill-charts/
  * Description:       Show animated skill bar and circle.
- * Version:           1.0.0
+ * Version:           1.1
  * Author:            WEN Themes
  * Author URI:        http://wenthemes.com/
  * License:           GPL-2.0+

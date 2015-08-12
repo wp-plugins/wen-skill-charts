@@ -1,10 +1,10 @@
 === WEN Skill Charts ===
 Contributors: wenthemes
-Donate link: http://wenthemes.com
+Donate link: http://wenthemes.com/item/wordpress-plugins/wen-skill-charts/
 Tags: skill, animated, animation, circle, bar, bar chart, experience, animated skill, skill showcase
-Requires at least: 3.8
-Tested up to: 4.1
-Stable tag: 1.0.0
+Requires at least: 4.0
+Tested up to: 4.3
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,9 +12,9 @@ Show animated skill bar and circle
 
 == Description ==
 
-<h3>WEN Skill Charts</h3>WEN Skill Charts will help you to display beautiful animated skill bar and circle. Several options are available to customize the chart. You can easily add/edit/delete/re-order skill items from the admin panel. You can use shortcode in pages, posts or sidebar using Text Widget.
+<strong>WEN Skill Charts</strong> helps you to display beautiful animated skill bar and circle. Several options are available to customize the chart. You can easily add/edit/delete/re-order skill items from the admin panel. You can use shortcode in pages, posts or sidebar using Text Widget.
 
-Plugin : [Homepage](http://wenthemes.com/item/wordpress-plugins/wen-skill-charts/)    
+Plugin : [Homepage](http://wenthemes.com/item/wordpress-plugins/wen-skill-charts/)
 
 If you like this plugin, please [rate and review](http://wordpress.org/support/view/plugin-reviews/wen-skill-charts). If you have any question, suggestion or issue, please [post here](http://wordpress.org/support/plugin/wen-skill-charts).
 
@@ -52,12 +52,14 @@ Nice, make a post on the [Support Forum](http://wordpress.org/support/plugin/wen
 
 == Screenshots ==
 
-1. Skill management
-2. Skill settings
-3. Display skill bar
-4. Display skill circle
+1. Skill management page
+2. Display skill bar in front-end
+3. Display skill circle in front-end
 
 == Changelog ==
+
+= 1.1 =
+* Minor bug fixes
 
 = 1.0.0 =
 * Initial release
